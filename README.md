@@ -24,18 +24,18 @@ Welcome to the **classic Tetris game** implemented in Python using the **Pygame 
    tetris.py
 
 2. **Controls**:
-   Left Arrow: Move left
-   Right Arrow: Move right
-   Down Arrow: Move down
-   Up Arrow: Rotate piece
+- Left Arrow: Move left
+- Right Arrow: Move right
+- Down Arrow: Move down
+- Up Arrow: Rotate piece
 
 ## 🚀 **Future Improvements**
-   🔄 Enhanced rotation logic
-   🌟 Level progression
-   🔍 Next piece preview
+- 🔄 Enhanced rotation logic
+- 🌟 Level progression
+- 🔍 Next piece preview
 
 ## 🤝 **Contributing**
-   Feel free to fork this project, submit issues, and send pull requests. Contributions are       welcome! 🎉
+   Feel free to fork this project, submit issues, and send pull requests. Contributions are welcome! 🎉
 
 ## 📜 **License**
    This project is licensed under the MIT License.
