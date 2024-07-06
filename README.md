@@ -1,4 +1,4 @@
-# 🎮 **Tetris Game using Pygame**
+# 🎮 **Tetris Game using Pygame** 🎮
 
 ## **Introduction**
 Welcome to the **classic Tetris game** implemented in Python using the **Pygame library**! Stack and clear lines of blocks to score points and challenge yourself in this timeless puzzle game.
@@ -14,7 +14,7 @@ Welcome to the **classic Tetris game** implemented in Python using the **Pygame 
    git clone https://github.com/UtkarshJi/Tetris-Game.git
    
 2. **Navigate to the project directory**:
-   cd Tetris-Game
+   **cd Tetris-Game**
 
 3. **Install required dependencies**:
    pip install pygame
@@ -35,8 +35,8 @@ Welcome to the **classic Tetris game** implemented in Python using the **Pygame 
 - 🔍 Next piece preview
 
 ## 🤝 **Contributing**
-   Feel free to fork this project, submit issues, and send pull requests. Contributions are welcome! 🎉
+- Feel free to fork this project, submit issues, and send pull requests. Contributions are welcome! 🎉
 
 ## 📜 **License**
-   This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
