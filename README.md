@@ -23,7 +23,7 @@ Welcome to the **classic Tetris game** implemented in Python using the **Pygame 
 1. **Start the game**:
    tetris.py
 
-2. **Controls**:
+3. **Controls**:
 - Left Arrow: Move left
 - Right Arrow: Move right
 - Down Arrow: Move down
