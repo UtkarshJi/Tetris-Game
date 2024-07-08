@@ -1,3 +1,4 @@
+#install theses libraries
 import pygame
 import random
 
