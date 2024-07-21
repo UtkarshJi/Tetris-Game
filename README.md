@@ -1,4 +1,4 @@
-# 🎮 **Tetris Game using Pygame** 🎮
+# 🎮 **Tetris Game using Pygame** 🎮 
 
 ## **Introduction**
 Welcome to the **classic Tetris game** implemented in Python using the **Pygame library**! Stack and clear lines of blocks to score points and challenge yourself in this timeless puzzle game.
