@@ -8,7 +8,7 @@ Welcome to the **classic Tetris game** implemented in Python using the **Pygame 
 - ⏳ **Smooth Gameplay**: Move, rotate, and drop pieces.
 - ⭐ **Score Tracking**: Keep an eye on your score as you clear lines.
 - 🖥️ **Simple Graphics**: Clean and minimalistic design for easy play.
-
+ 
 ## 🛠️ **Installation**
 1. **Clone the repository**:
    git clone https://github.com/UtkarshJi/Tetris-Game.git
